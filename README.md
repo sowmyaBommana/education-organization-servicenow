@@ -2,7 +2,7 @@
 
 This project demonstrates how ServiceNow can be used to manage student records, courses, and requests efficiently in an education organization.
 
-🎥 Video Demo: Watch here
+🎥 Video Demo: https://youtu.be/JIb9lf3ovLU
 
 Features
 
